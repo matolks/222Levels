@@ -21,9 +21,9 @@ A 222 Level Flutter application powered by Firebase.
   - Interstitial Google Mobile Ads (AdMob)
 ### Local Cache 💾
   - Flutter Hive for local storage
-        - Saved progress
-        - Gameplay Data
-        - State Tracking
+    - Saved progress
+    - Gameplay Data
+    - State Tracking
 
 ## Objective
   - 222 Levels will be seperated into 25+ sections ranging from 5-10 levels
