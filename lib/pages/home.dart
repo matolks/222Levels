@@ -353,7 +353,7 @@ class _HomeState extends State<Home> {
     switch (authResult.status) {
       case TwitterLoginStatus.loggedIn:
         // Handle successful login
-        final twitterSession = authResult.authToken;
+        final twitterSession = authResult.authToken; 
         final twitterSessionSecret = authResult.authTokenSecret;
 
         // Create a credential from the Twitter token
