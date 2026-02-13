@@ -347,11 +347,6 @@ class _HomeState extends State<Home> {
 
   // X sign in (AUTH EMAIL IN X DEVELOPER)
   Future<void> handleXSignIn() async {
-    final twitterLogin = TwitterLogin(
-      apiKey: 'tXaFTxxn41e8XWvKIRylduCnd',
-      apiSecretKey: 'YpjwcCmkcnqE4kAjBUcbe7fA56BOimX7xPKhWkzVegioVKmidx',
-      redirectURI: 'signinauth://',
-    );
 
     final authResult = await twitterLogin.login();
 
