@@ -5,7 +5,7 @@ A 222 Level Flutter application powered by Firebase.
   - **Framework:** Flutter
   - **Language:** Dart
   - **Backend:** Firebase
-  - **Authentication:** Firebase Auth
+  - **Authentication:** Firebase Auth, Google, Apple, X
   - **Ads:** Google Mobile Ads (AdMob)
   - **Storage:** Flutter Hive Local device storage
 
