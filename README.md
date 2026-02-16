@@ -1,7 +1,7 @@
 # 222 Levels *In Progress*
 A 222 Level Flutter application powered by Firebase.
 
-## Tech Stack
+## **Tech Stack**
   - **Framework:** Flutter
   - **Language:** Dart
   - **Backend:** Firebase
@@ -9,23 +9,23 @@ A 222 Level Flutter application powered by Firebase.
   - **Ads:** Google Mobile Ads (AdMob)
   - **Storage:** Flutter Hive Local device storage
 
-## Features
-### Auth 🔐
+## **Features**
+### **Auth 🔐**
   - Firebase Authentication
   - Google Sign-in
   - Apple Sign-in
   - X Sign-in
-### Backend ☁️
+### **Backend ☁️**
   - Firebase Integration (NoSQL)
-### Monetization 💰
+### **Monetization 💰**
   - Interstitial Google Mobile Ads (AdMob)
-### Local Cache 💾
+### **Local Cache 💾**
   - Flutter Hive for local storage
     - Saved progress
     - Gameplay Data
     - State Tracking
 
-## Objective
+## **Objective**
   - 222 Levels will be seperated into 25+ sections ranging from 5-10 levels
   - Each section will be its own different game and you must successfully pass it to move to the next section
   - Certain sections might give you X amount of lifes or just restart you on the first loss
